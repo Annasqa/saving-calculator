@@ -1,8 +1,8 @@
-### Basic Project2
+### Saving Calculator Project
 
-### March 26
+### March 30
 
-A Basic Structure for Maven Projects
+An application that calculates savings amount
 
 * Git
 * Java 7
